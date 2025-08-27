@@ -14,5 +14,5 @@ These scripts help process, analyze, and visualize environmental data collected 
 - Generation of plots and graphs for reports  
 
 ## ⚡ Notes
-- Scripts are written in **R**  
+- Scripts are written in ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 - Organized for quick access and easy adaptation to new datasets
